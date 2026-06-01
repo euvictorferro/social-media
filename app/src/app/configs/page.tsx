@@ -108,7 +108,7 @@ export default function ConfigsPage() {
                 <Input
                   value={form.configName}
                   onChange={(e) => setForm({ ...form, configName: e.target.value })}
-                  placeholder="e.g. Real Estate Videos for Anja"
+                  placeholder="e.g. TIAGO-ZAMBONI"
                   className="mt-1.5 rounded-xl glass border-white/[0.08] h-11"
                 />
               </div>
@@ -117,7 +117,7 @@ export default function ConfigsPage() {
                 <Input
                   value={form.creatorsCategory}
                   onChange={(e) => setForm({ ...form, creatorsCategory: e.target.value })}
-                  placeholder="e.g. dubai-real-estate"
+                  placeholder="e.g. orlando-real-estate"
                   className="mt-1.5 rounded-xl glass border-white/[0.08] h-11"
                 />
               </div>

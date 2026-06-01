@@ -1,0 +1,58 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e5]:
+      - generic [ref=e7]:
+        - img [ref=e9]
+        - generic [ref=e11]:
+          - heading "Virality System" [level=1] [ref=e12]
+          - paragraph [ref=e13]: Instagram Reels AI
+      - list [ref=e17]:
+        - listitem [ref=e18]:
+          - link "Videos" [ref=e19] [cursor=pointer]:
+            - /url: /videos
+            - img [ref=e20]
+            - generic [ref=e22]: Videos
+        - listitem [ref=e23]:
+          - link "Run Pipeline" [ref=e24] [cursor=pointer]:
+            - /url: /run
+            - img [ref=e25]
+            - generic [ref=e27]: Run Pipeline
+        - listitem [ref=e28]:
+          - link "Creators" [ref=e29] [cursor=pointer]:
+            - /url: /creators
+            - img [ref=e30]
+            - generic [ref=e35]: Creators
+        - listitem [ref=e36]:
+          - link "Configs" [ref=e37] [cursor=pointer]:
+            - /url: /configs
+            - img [ref=e38]
+            - generic [ref=e41]: Configs
+    - main [ref=e42]:
+      - generic [ref=e43]:
+        - button "Toggle Sidebar" [ref=e44]:
+          - img
+          - generic [ref=e45]: Toggle Sidebar
+        - generic [ref=e47]: Run Pipeline
+      - generic [ref=e49]:
+        - generic [ref=e50]:
+          - heading "Run Pipeline" [level=1] [ref=e51]
+          - paragraph [ref=e52]: Analyze competitor content and generate new video concepts
+        - generic [ref=e53]:
+          - generic [ref=e54]:
+            - img [ref=e55]
+            - heading "Pipeline Configuration" [level=2] [ref=e57]
+          - generic [ref=e58]:
+            - generic [ref=e59]:
+              - generic [ref=e60]: Config
+              - combobox [ref=e61]:
+                - generic: Select a config...
+                - img
+            - button "Advanced settings" [ref=e62]:
+              - img [ref=e63]
+              - text: Advanced settings
+            - button "Run Pipeline" [disabled]:
+              - img
+              - text: Run Pipeline
+  - button "Open Next.js Dev Tools" [ref=e70] [cursor=pointer]:
+    - img [ref=e71]
+  - alert [ref=e74]

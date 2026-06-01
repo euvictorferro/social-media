@@ -1,0 +1,71 @@
+- generic:
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - img
+              - generic:
+                - heading [level=1]: Virality System
+                - paragraph: Instagram Reels AI
+          - generic:
+            - generic:
+              - generic:
+                - list:
+                  - listitem:
+                    - link:
+                      - /url: /videos
+                      - img
+                      - generic: Videos
+                  - listitem:
+                    - link:
+                      - /url: /run
+                      - img
+                      - generic: Run Pipeline
+                  - listitem:
+                    - link:
+                      - /url: /creators
+                      - img
+                      - generic: Creators
+                  - listitem:
+                    - link:
+                      - /url: /configs
+                      - img
+                      - generic: Configs
+    - main:
+      - generic:
+        - button:
+          - img
+          - generic: Toggle Sidebar
+        - generic: Run Pipeline
+      - generic:
+        - generic:
+          - generic:
+            - heading [level=1]: Run Pipeline
+            - paragraph: Analyze competitor content and generate new video concepts
+          - generic:
+            - generic:
+              - img
+              - heading [level=2]: Pipeline Configuration
+            - generic:
+              - generic:
+                - generic: Config
+                - combobox [expanded]:
+                  - generic: Select a config...
+                  - img
+              - button:
+                - img
+                - text: Advanced settings
+              - button [disabled]:
+                - img
+                - text: Run Pipeline
+  - button "Open Next.js Dev Tools" [ref=e70] [cursor=pointer]:
+    - img [ref=e71]
+  - alert
+  - listbox [ref=e75]:
+    - option "TIAGO-ZAMBONI" [active] [ref=e76]:
+      - generic [ref=e78]: TIAGO-ZAMBONI
+    - option "TIAGO-ZAMBONI-GLOBAL" [ref=e79]:
+      - generic [ref=e81]: TIAGO-ZAMBONI-GLOBAL

@@ -207,7 +207,7 @@ export default function CreatorsPage() {
                   <Input
                     value={form.category}
                     onChange={(e) => setForm({ ...form, category: e.target.value })}
-                    placeholder="e.g. dubai-real-estate"
+                    placeholder="e.g. orlando-real-estate"
                     className="mt-1.5 rounded-xl glass border-white/[0.08] h-11"
                   />
                 </div>

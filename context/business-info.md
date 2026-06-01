@@ -4,11 +4,10 @@
 
 Social Media AI is an automated pipeline that scrapes competitor Instagram Reels, identifies the most viral ones, analyzes them with AI, and generates new adapted video concepts for a given brand.
 
-## Use Cases
+## Current Client
 
-- Real estate agents wanting viral Reels content
-- Lifestyle brands growing on Instagram
-- Content creators looking for proven viral formats to adapt
+**Tiago Zamboni** (`@tiagohzamboni`) — corretor imobiliário brasileiro em Orlando, FL.
+Ver contexto completo em `context/tiago-zamboni.md`.
 
 ## External Services
 

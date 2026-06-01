@@ -2,11 +2,18 @@
 
 ## What It Does
 
-Social Media AI helps create viral Instagram Reels by analyzing what already works for competitors and adapting proven concepts for a target brand.
+Social Media AI helps criar Reels virais para corretores de imóveis analisando o que já funciona nos concorrentes e adaptando conceitos comprovados para o cliente.
 
 ## Key Capabilities
 
-- Configure analysis pipelines per client (different creators, prompts, parameters)
-- Manage competitor/creator lists grouped by category
-- Run automated scrape-analyze-generate pipelines
-- Browse and review results with video thumbnails and AI-generated concepts
+- Configurar pipelines de análise por cliente (creators, prompts, parâmetros diferentes)
+- Gerenciar listas de creators/concorrentes agrupados por categoria
+- Rodar pipelines automatizados de scrape → análise → geração de conceitos
+- Navegar e revisar resultados com thumbnails e conceitos gerados por IA
+
+## Current Client
+
+Tiago Zamboni — imóveis em Orlando para brasileiros.
+Duas frentes de scraping:
+- `orlando-real-estate`: criadores locais (temas de mercado)
+- `global-real-estate-viral`: referências virais globais (formatos e ganchos)
