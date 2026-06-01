@@ -1,0 +1,329 @@
+- generic [ref=e11]:
+  - generic [ref=e13]:
+    - link "Instagram" [ref=e16] [cursor=pointer]:
+      - /url: /
+      - img "Instagram" [ref=e19]
+    - generic [ref=e24]:
+      - link "Entrar" [ref=e26] [cursor=pointer]:
+        - /url: /accounts/login/?next=%2Freel%2FDWonngPDql2%2F&source=desktop_nav
+      - link "Cadastre-se" [ref=e28] [cursor=pointer]:
+        - /url: /accounts/emailsignup/
+  - main [ref=e29]:
+    - dialog [ref=e34]:
+      - generic [ref=e35]:
+        - button "Fechar" [ref=e37] [cursor=pointer]:
+          - img "Fechar" [ref=e39]
+        - generic [ref=e43]:
+          - generic [ref=e44]:
+            - link "Foto do perfil de razevedoadvogadosoficial" [ref=e46] [cursor=pointer]:
+              - img "Foto do perfil de razevedoadvogadosoficial" [ref=e47]
+            - generic [ref=e49]:
+              - generic [ref=e50]: Não perca nenhum post de razevedoadvogadosoficial
+              - generic [ref=e52]: Cadastre-se no Instagram para ficar por dentro das novidades.
+              - generic [ref=e54]:
+                - text: Ao continuar, você concorda com os
+                - link "Termos de Uso" [ref=e55] [cursor=pointer]:
+                  - /url: https://help.instagram.com/581066165581870/?locale=pt_BR
+                - text: e a
+                - link "Política de Privacidade" [ref=e56] [cursor=pointer]:
+                  - /url: https://privacycenter.instagram.com/policy/
+                - text: do Instagram.
+          - generic [ref=e57]:
+            - link "Cadastre-se" [ref=e60] [cursor=pointer]:
+              - /url: /accounts/emailsignup/
+            - link "Entrar" [ref=e63] [cursor=pointer]:
+              - /url: /accounts/login/?source=desktop_dynamic_landing_dialog
+    - generic [ref=e64]:
+      - generic [ref=e66]:
+        - img [ref=e76]
+        - generic [ref=e79]:
+          - generic [ref=e81]:
+            - generic [ref=e83]:
+              - link "Foto do perfil de renanazevedoadv" [ref=e84]:
+                - img "Foto do perfil de renanazevedoadv" [ref=e85]
+              - link "Foto do perfil de razevedoadvogadosoficial" [ref=e88]:
+                - img "Foto do perfil de razevedoadvogadosoficial" [ref=e89]
+            - generic [ref=e91]:
+              - generic [ref=e94]:
+                - link "razevedoadvogadosoficial" [ref=e96] [cursor=pointer]:
+                  - /url: /razevedoadvogadosoficial/
+                  - generic [ref=e99]: razevedoadvogadosoficial
+                - text: e
+                - link "renanazevedoadv" [ref=e101] [cursor=pointer]:
+                  - /url: /renanazevedoadv/
+                  - generic [ref=e104]: renanazevedoadv
+              - link "Áudio original" [ref=e108] [cursor=pointer]:
+                - /url: /reels/audio/26268918012729461/
+                - generic [ref=e111]: Áudio original
+            - button "Mais opções" [ref=e114] [cursor=pointer]:
+              - img "Mais opções" [ref=e117]
+          - separator [ref=e121]
+          - generic [ref=e123]:
+            - generic [ref=e125]:
+              - link "Foto do perfil de razevedoadvogadosoficial" [ref=e127] [cursor=pointer]:
+                - /url: /razevedoadvogadosoficial/
+                - img "Foto do perfil de razevedoadvogadosoficial" [ref=e128]
+              - generic [ref=e132]:
+                - generic [ref=e133]:
+                  - link "razevedoadvogadosoficial" [ref=e134] [cursor=pointer]:
+                    - /url: /razevedoadvogadosoficial/
+                    - generic [ref=e137]: razevedoadvogadosoficial
+                  - time [ref=e139]: 8 sem
+                - generic [ref=e140]: Proteção e Sucessão Patrimonial só funciona se for exatamente assim!
+            - button "Carregar mais comentários" [ref=e142] [cursor=pointer]:
+              - img "Carregar mais comentários" [ref=e144]
+            - generic [ref=e146]:
+              - generic [ref=e149]:
+                - link "Foto do perfil de weslany_maciel" [ref=e152] [cursor=pointer]:
+                  - /url: /weslany_maciel/
+                  - img "Foto do perfil de weslany_maciel" [ref=e153]
+                - generic [ref=e155]:
+                  - generic [ref=e157]:
+                    - generic [ref=e158]:
+                      - link "weslany_maciel" [ref=e160] [cursor=pointer]:
+                        - /url: /weslany_maciel/
+                        - generic [ref=e163]: weslany_maciel
+                      - link "8 sem" [ref=e165] [cursor=pointer]:
+                        - /url: /p/DWonngPDql2/c/17887650402463686/
+                        - time [ref=e166]: 8 sem
+                    - generic [ref=e168]: 👏👏👏
+                  - generic [ref=e169]:
+                    - button "Curtir" [ref=e170] [cursor=pointer]:
+                      - generic [ref=e171]: Curtir
+                    - button "Responder" [ref=e172] [cursor=pointer]:
+                      - generic [ref=e174]: Responder
+              - generic [ref=e177]:
+                - link "Foto do perfil de kalinyverissimo" [ref=e180] [cursor=pointer]:
+                  - /url: /kalinyverissimo/
+                  - img "Foto do perfil de kalinyverissimo" [ref=e181]
+                - generic [ref=e183]:
+                  - generic [ref=e185]:
+                    - generic [ref=e186]:
+                      - link "kalinyverissimo" [ref=e188] [cursor=pointer]:
+                        - /url: /kalinyverissimo/
+                        - generic [ref=e191]: kalinyverissimo
+                      - link "8 sem" [ref=e193] [cursor=pointer]:
+                        - /url: /p/DWonngPDql2/c/18101234533943276/
+                        - time [ref=e194]: 8 sem
+                    - generic [ref=e196]: 👏👏
+                  - generic [ref=e197]:
+                    - button "Curtir" [ref=e198] [cursor=pointer]:
+                      - generic [ref=e199]: Curtir
+                    - button "Responder" [ref=e200] [cursor=pointer]:
+                      - generic [ref=e202]: Responder
+              - generic [ref=e205]:
+                - link "Foto do perfil de mayarara_" [ref=e208] [cursor=pointer]:
+                  - /url: /mayarara_/
+                  - img "Foto do perfil de mayarara_" [ref=e209]
+                - generic [ref=e211]:
+                  - generic [ref=e213]:
+                    - generic [ref=e214]:
+                      - link "mayarara_" [ref=e216] [cursor=pointer]:
+                        - /url: /mayarara_/
+                        - generic [ref=e219]: mayarara_
+                      - link "8 sem" [ref=e221] [cursor=pointer]:
+                        - /url: /p/DWonngPDql2/c/18098991496990003/
+                        - time [ref=e222]: 8 sem
+                    - generic [ref=e224]: Muito bom 👏👏
+                  - generic [ref=e225]:
+                    - button "Curtir" [ref=e226] [cursor=pointer]:
+                      - generic [ref=e227]: Curtir
+                    - button "Responder" [ref=e228] [cursor=pointer]:
+                      - generic [ref=e230]: Responder
+          - generic [ref=e231]:
+            - generic [ref=e232]:
+              - generic [ref=e233]:
+                - button "Curtir" [ref=e236] [cursor=pointer]:
+                  - img "Curtir" [ref=e239]
+                - button "82" [ref=e241] [cursor=pointer]
+                - button "Comentar" [ref=e243] [cursor=pointer]:
+                  - img "Comentar" [ref=e245]
+                - button "3" [ref=e247] [cursor=pointer]
+                - button "Compartilhar" [ref=e248] [cursor=pointer]:
+                  - img "Compartilhar" [ref=e249]
+              - button "Salvar" [ref=e253] [cursor=pointer]:
+                - img "Salvar" [ref=e255]
+            - link "2 de abril" [ref=e259] [cursor=pointer]:
+              - /url: /razevedoadvogadosoficial/reel/DWonngPDql2/
+              - time [ref=e261]: 2 de abril
+          - generic [ref=e266]:
+            - link "Entrar" [ref=e267] [cursor=pointer]:
+              - /url: /accounts/login/?next=%2Freel%2FDWonngPDql2%2F&source=post_comment_input
+            - text: para curtir ou comentar.
+      - separator [ref=e269]
+      - generic [ref=e270]:
+        - generic [ref=e272]:
+          - text: Mais posts de
+          - link "razevedoadvogadosoficial" [ref=e273] [cursor=pointer]:
+            - /url: /razevedoadvogadosoficial/
+        - generic [ref=e276]:
+          - generic [ref=e277]:
+            - link "Clipe" [ref=e279] [cursor=pointer]:
+              - /url: /razevedoadvogadosoficial/reel/DYhRpieuO0P/
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Clipe"
+            - link "Clipe" [ref=e284] [cursor=pointer]:
+              - /url: /razevedoadvogadosoficial/reel/DWRb34yjpU-/
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Clipe"
+            - link "Clipe" [ref=e289] [cursor=pointer]:
+              - /url: /razevedoadvogadosoficial/reel/DYSAaYKO_Sv/
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Clipe"
+          - generic [ref=e293]:
+            - link "Clipe" [ref=e295] [cursor=pointer]:
+              - /url: /razevedoadvogadosoficial/reel/DY7Vz1NOCL3/
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Clipe"
+            - link "Clipe" [ref=e300] [cursor=pointer]:
+              - /url: /carolinatavaresadv/reel/DY5eIoTBtQb/
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Clipe"
+            - link "Clipe" [ref=e305] [cursor=pointer]:
+              - /url: /razevedoadvogadosoficial/reel/DY0R1VIpihe/
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Clipe"
+          - generic [ref=e309]:
+            - link "Clipe" [ref=e311] [cursor=pointer]:
+              - /url: /carolinatavaresadv/reel/DYxqHolBk6Q/
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Clipe"
+            - link "Clipe" [ref=e316] [cursor=pointer]:
+              - /url: /razevedoadvogadosoficial/reel/DYxYrY0JYq7/
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Clipe"
+            - link "Carrossel" [ref=e321] [cursor=pointer]:
+              - /url: /razevedoadvogadosoficial/p/DYxJed8Dit4/
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Carrossel"
+        - generic [ref=e325]:
+          - link "Ver mais posts" [ref=e327] [cursor=pointer]:
+            - /url: /razevedoadvogadosoficial/
+            - generic [ref=e328]: Ver mais posts
+          - separator [ref=e329]
+  - contentinfo [ref=e330]:
+    - generic [ref=e331]:
+      - generic [ref=e333]:
+        - link "Meta" [ref=e335] [cursor=pointer]:
+          - /url: https://about.meta.com/
+          - generic [ref=e336]: Meta
+        - link "Sobre" [ref=e338] [cursor=pointer]:
+          - /url: https://about.instagram.com/
+          - generic [ref=e339]: Sobre
+        - link "Blog" [ref=e341] [cursor=pointer]:
+          - /url: https://about.instagram.com/blog/
+          - generic [ref=e342]: Blog
+        - link "Carreiras" [ref=e344] [cursor=pointer]:
+          - /url: https://about.instagram.com/about-us/careers
+          - generic [ref=e345]: Carreiras
+        - link "Ajuda" [ref=e347] [cursor=pointer]:
+          - /url: https://help.instagram.com/
+          - generic [ref=e348]: Ajuda
+        - link "API" [ref=e350] [cursor=pointer]:
+          - /url: https://developers.facebook.com/docs/instagram
+          - generic [ref=e351]: API
+        - link "Privacidade" [ref=e353] [cursor=pointer]:
+          - /url: /legal/privacy/
+          - generic [ref=e354]: Privacidade
+        - link "Termos" [ref=e356] [cursor=pointer]:
+          - /url: /legal/terms/
+          - generic [ref=e357]: Termos
+        - link "Localizações" [ref=e359] [cursor=pointer]:
+          - /url: /explore/locations/
+          - generic [ref=e360]: Localizações
+        - link "Popular" [ref=e362] [cursor=pointer]:
+          - /url: /popular/
+          - generic [ref=e363]: Popular
+        - link "Instagram Lite" [ref=e365] [cursor=pointer]:
+          - /url: /web/lite/
+          - generic [ref=e366]: Instagram Lite
+        - link "Meta AI" [ref=e368] [cursor=pointer]:
+          - /url: https://www.meta.ai/?utm_source=foa_web_footer
+          - generic [ref=e369]: Meta AI
+        - link "Threads" [ref=e371] [cursor=pointer]:
+          - /url: https://www.threads.com/
+          - generic [ref=e372]: Threads
+        - link "Upload de contatos e não usuários" [ref=e374] [cursor=pointer]:
+          - /url: https://www.facebook.com/help/instagram/261704639352628
+          - generic [ref=e375]: Upload de contatos e não usuários
+        - link "Meta Verified" [ref=e377] [cursor=pointer]:
+          - /url: /accounts/meta_verified/?entrypoint=web_footer
+          - generic [ref=e378]: Meta Verified
+      - generic [ref=e379]:
+        - generic [ref=e380] [cursor=pointer]:
+          - generic [ref=e381]:
+            - generic [ref=e382]: Português (Brasil)
+            - img "Ícone de seta para baixo" [ref=e385]
+          - combobox "Trocar idioma de exibição" [ref=e387]:
+            - option "Afrikaans"
+            - option "العربية"
+            - option "Čeština"
+            - option "Dansk"
+            - option "Deutsch"
+            - option "Ελληνικά"
+            - option "English"
+            - option "English (UK)"
+            - option "Español (España)"
+            - option "Español"
+            - option "فارسی"
+            - option "Suomi"
+            - option "Français"
+            - option "עברית"
+            - option "Bahasa Indonesia"
+            - option "Italiano"
+            - option "日本語"
+            - option "한국어"
+            - option "Bahasa Melayu"
+            - option "Norsk"
+            - option "Nederlands"
+            - option "Polski"
+            - option "Português (Brasil)" [selected]
+            - option "Português (Portugal)"
+            - option "Русский"
+            - option "Svenska"
+            - option "ภาษาไทย"
+            - option "Filipino"
+            - option "Türkçe"
+            - option "中文(简体)"
+            - option "中文(台灣)"
+            - option "বাংলা"
+            - option "ગુજરાતી"
+            - option "हिन्दी"
+            - option "Hrvatski"
+            - option "Magyar"
+            - option "ಕನ್ನಡ"
+            - option "മലയാളം"
+            - option "मराठी"
+            - option "नेपाली"
+            - option "ਪੰਜਾਬੀ"
+            - option "සිංහල"
+            - option "Slovenčina"
+            - option "தமிழ்"
+            - option "తెలుగు"
+            - option "اردو"
+            - option "Tiếng Việt"
+            - option "中文(香港)"
+            - option "Български"
+            - option "Français (Canada)"
+            - option "Română"
+            - option "Српски"
+            - option "Українська"
+        - generic [ref=e389]: © 2026 Instagram from Meta

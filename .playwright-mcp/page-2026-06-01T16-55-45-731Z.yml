@@ -1,0 +1,23 @@
+- generic [ref=e5]:
+  - img [ref=e11]
+  - generic [ref=e25]:
+    - generic [ref=e26]:
+      - generic:
+        - slider "Resize panels using the left and right arrow keys"
+      - generic:
+        - slider "Resize panels using the left and right arrow keys"
+      - list [ref=e32]:
+        - listitem [ref=e33]
+        - listitem [ref=e34]
+        - listitem [ref=e35]
+    - navigation:
+      - group [ref=e36]:
+        - checkbox "Inbox" [ref=e37] [cursor=pointer]:
+          - generic [ref=e41]: Inbox
+        - checkbox "Planner" [ref=e42] [cursor=pointer]:
+          - generic [ref=e46]: Planner
+        - checkbox "Board" [checked] [disabled] [ref=e47]:
+          - generic [ref=e52]: Board
+        - separator [ref=e53]
+        - checkbox "Switch boards" [ref=e55] [cursor=pointer]:
+          - generic [ref=e59]: Switch boards

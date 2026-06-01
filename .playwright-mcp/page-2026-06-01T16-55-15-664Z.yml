@@ -1,0 +1,75 @@
+- generic [ref=e5]:
+  - generic [ref=e6]:
+    - generic:
+      - text: "Ir para:"
+      - list:
+        - listitem:
+          - link "Quadro":
+            - /url: "#trello-board-root"
+        - listitem:
+          - link "Alternador de quadro":
+            - /url: "#island-nav"
+    - navigation "Principal" [ref=e7]:
+      - generic [ref=e8]:
+        - button "Alternar para..." [ref=e10] [cursor=pointer]:
+          - img "Alternar para..." [ref=e12]
+        - link "Voltar ao Início" [ref=e13] [cursor=pointer]:
+          - /url: /
+          - img [ref=e15]
+      - generic [ref=e17]:
+        - textbox "Pesquisar" [ref=e20]
+        - button "Criar quadro ou Área de trabalho" [ref=e22] [cursor=pointer]: Criar
+      - generic [ref=e23]:
+        - button "9 dias restantes" [ref=e213] [cursor=pointer]: 9 dias restantes
+        - button "Feedback" [ref=e24] [cursor=pointer]
+        - generic [ref=e27]:
+          - button "1 notificação" [ref=e28] [cursor=pointer]
+          - button:
+            - generic:
+              - generic: "1"
+        - button "Abrir o menu de informações" [ref=e31] [cursor=pointer]
+        - button "Claude Clique Boost (claudecliqueboost)" [ref=e35] [cursor=pointer]
+  - generic [ref=e215]:
+    - generic [ref=e216]:
+      - generic:
+        - slider "Redimensione os painéis usando as teclas de seta para a esquerda e para a direita"
+      - generic:
+        - slider "Redimensione os painéis usando as teclas de seta para a esquerda e para a direita"
+      - generic [ref=e220]:
+        - generic [ref=e222]:
+          - generic [ref=e223]:
+            - textbox "Nome do quadro" [ref=e224]:
+              - heading "Lais Daltrozo" [level=1] [ref=e225]
+            - button "Visualizações" [ref=e228] [cursor=pointer]
+          - generic [ref=e235]:
+            - button "Este membro é administrador deste quadro." [ref=e238] [cursor=pointer]:
+              - generic "Este membro é administrador deste quadro." [ref=e240]
+            - generic [ref=e241]:
+              - button "Power-Ups" [ref=e243] [cursor=pointer]:
+                - img "Power-Ups" [ref=e245]
+              - button "Automação" [ref=e247] [cursor=pointer]:
+                - img "Automação" [ref=e249]
+            - button "Filtrar Cartões" [ref=e251] [cursor=pointer]:
+              - img "Filtrar Cartões" [ref=e253]
+            - generic [ref=e254]:
+              - button "Inserir ou Remover Estrela do Quadro" [ref=e255] [cursor=pointer]:
+                - img "Inserir ou Remover Estrela do Quadro" [ref=e257]
+              - button "Visível à Área de trabalho" [ref=e259] [cursor=pointer]
+            - button "Compartilhar quadro Compartilhar" [ref=e263] [cursor=pointer]:
+              - img "Compartilhar quadro" [ref=e265]
+              - generic [ref=e266]: Compartilhar
+            - button "Mostrar Menu" [ref=e267] [cursor=pointer]
+        - list [ref=e272]:
+          - listitem [ref=e273]:
+            - button "Adicionar uma lista" [ref=e274] [cursor=pointer]: Adicionar uma lista
+    - navigation:
+      - group [ref=e278]:
+        - checkbox "Caixa de entrada" [ref=e279] [cursor=pointer]:
+          - generic [ref=e283]: Caixa de entrada
+        - checkbox "Planejador" [ref=e284] [cursor=pointer]:
+          - generic [ref=e288]: Planejador
+        - checkbox "Quadro" [checked] [disabled] [ref=e289]:
+          - generic [ref=e294]: Quadro
+        - separator [ref=e295]
+        - checkbox "Mudar de quadros" [ref=e298] [cursor=pointer]:
+          - generic [ref=e302]: Mudar de quadros

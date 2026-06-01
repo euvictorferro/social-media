@@ -1,0 +1,53 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - link "Home" [ref=e4] [cursor=pointer]:
+      - /url: /home
+    - link "Go to Your Boards →" [ref=e6] [cursor=pointer]:
+      - /url: /
+  - generic [ref=e9]:
+    - heading "Developer API Keys" [level=1] [ref=e10]
+    - heading "Managing API keys just got better" [level=3] [ref=e11]
+    - paragraph [ref=e12]: Each Power-Up can now have a unique API key and be managed by any collaborators.
+    - paragraph [ref=e13]:
+      - text: You can view and manage your developer API keys, allowed origins, and secrets for each Power-Up directly from the "API key" page in the
+      - link "Power-Up Admin Portal." [ref=e14] [cursor=pointer]:
+        - /url: /power-ups/admin/
+      - text: This developer site has examples, information on getting started with the API, and the full reference documentation.
+    - link "Go to the Power-Up Admin Portal" [ref=e15] [cursor=pointer]:
+      - /url: /power-ups/admin/
+    - separator [ref=e16]
+    - generic [ref=e17]:
+      - list [ref=e18]:
+        - listitem [ref=e19]:
+          - link "Templates" [ref=e20] [cursor=pointer]:
+            - /url: /templates
+        - listitem [ref=e21]:
+          - link "Pricing" [ref=e22] [cursor=pointer]:
+            - /url: /pricing
+        - listitem [ref=e23]:
+          - link "Apps" [ref=e24] [cursor=pointer]:
+            - /url: /platforms
+        - listitem [ref=e25]:
+          - link "Jobs" [ref=e26] [cursor=pointer]:
+            - /url: https://www.atlassian.com/company/careers/trello
+        - listitem [ref=e27]:
+          - link "Blog" [ref=e28] [cursor=pointer]:
+            - /url: https://blog.trello.com/
+        - listitem [ref=e29]:
+          - link "Developers" [ref=e30] [cursor=pointer]:
+            - /url: http://developers.trello.com
+        - listitem [ref=e31]:
+          - link "About" [ref=e32] [cursor=pointer]:
+            - /url: /about
+        - listitem [ref=e33]:
+          - link "Help" [ref=e34] [cursor=pointer]:
+            - /url: http://help.trello.com/
+        - listitem [ref=e35]:
+          - link "Legal" [ref=e36] [cursor=pointer]:
+            - /url: /legal
+        - listitem [ref=e37]:
+          - link "Privacy" [ref=e38] [cursor=pointer]:
+            - /url: /privacy
+      - paragraph [ref=e39]:
+        - img [ref=e40]
+        - text: © Copyright 2026. All rights reserved.

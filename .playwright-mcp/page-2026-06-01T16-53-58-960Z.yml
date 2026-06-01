@@ -1,0 +1,83 @@
+- generic [ref=e12]:
+  - main [ref=e13]:
+    - generic [ref=e14]:
+      - img "Trello" [ref=e15]:
+        - img [ref=e16]
+      - heading "Entre para continuar" [level=1] [ref=e21]
+    - generic [ref=e23]:
+      - generic [ref=e24]:
+        - generic [ref=e26]:
+          - generic [ref=e27]: E-mail*
+          - generic [ref=e28]:
+            - textbox "E-mail" [disabled] [ref=e29]:
+              - /placeholder: Insira seu e-mail
+              - text: claude@cliqueboost.io
+            - button "Editar e-mail" [ref=e97] [cursor=pointer]:
+              - generic [ref=e100]: Editar e-mail
+        - generic [ref=e104]:
+          - generic [ref=e105]: Senha*
+          - generic [ref=e106]:
+            - textbox "Senha" [active] [ref=e107]:
+              - /placeholder: Digitar senha
+            - button "Exibir senha" [ref=e109] [cursor=pointer]:
+              - generic [ref=e112]: Exibir senha
+        - generic [ref=e31]:
+          - generic [ref=e32]:
+            - checkbox "Continuar conectado" [ref=e33]
+            - generic [ref=e34]: Continuar conectado
+          - button "Mais informações sobre a opção Continuar conectado." [ref=e36] [cursor=pointer]:
+            - img "Mais informações sobre a opção Continuar conectado." [ref=e39]
+      - button "Entrar" [ref=e114] [cursor=pointer]:
+        - generic [ref=e41]: Entrar
+    - list [ref=e42]:
+      - text: "Ou entrar com:"
+      - listitem [ref=e44]:
+        - button "Passkey" [ref=e45] [cursor=pointer]:
+          - generic [ref=e47]: Passkey
+    - list [ref=e48]:
+      - text: "Ou prossiga com:"
+      - generic [ref=e49]:
+        - listitem [ref=e50]:
+          - button "Google" [ref=e51] [cursor=pointer]:
+            - generic [ref=e53]: Google
+        - listitem [ref=e54]:
+          - button "Microsoft" [ref=e55] [cursor=pointer]:
+            - generic [ref=e57]: Microsoft
+      - generic [ref=e58]:
+        - listitem [ref=e59]:
+          - button "Apple" [ref=e60] [cursor=pointer]:
+            - generic [ref=e62]: Apple
+        - listitem [ref=e63]:
+          - button "Slack" [ref=e64] [cursor=pointer]:
+            - generic [ref=e66]: Slack
+    - list [ref=e68]:
+      - listitem [ref=e69]:
+        - link "Não consegue entrar?" [ref=e70] [cursor=pointer]:
+          - /url: /login/resetpassword?application=trello&continue=https%3A%2F%2Ftrello.com%2Fauth%2Fatlassian%2Fcallback%3FreturnUrl%3D%26display%3D%26aaOnboarding%3D%26updateEmail%3D%26traceId%3D%26ssoVerified%3D%26createMember%3D%26jiraInviteLink%3D&email=claude%40cliqueboost.io
+      - text: •
+      - listitem [ref=e71]:
+        - link "Criar uma conta" [ref=e72] [cursor=pointer]:
+          - /url: /signup?application=trello&continue=https%3A%2F%2Ftrello.com%2Fauth%2Fatlassian%2Fcallback%3FreturnUrl%3D%26display%3D%26aaOnboarding%3D%26updateEmail%3D%26traceId%3D%26ssoVerified%3D%26createMember%3D%26jiraInviteLink%3D&email=claude%40cliqueboost.io
+  - contentinfo [ref=e73]:
+    - generic [ref=e74]:
+      - img "Atlassian" [ref=e75]:
+        - img [ref=e76]
+      - generic [ref=e79]:
+        - link "One account , (opens new window)" [ref=e80] [cursor=pointer]:
+          - /url: https://support.atlassian.com/atlassian-account/docs/what-is-an-atlassian-account/
+          - text: One account
+          - img [ref=e82]
+          - generic [ref=e84]: ", (opens new window)"
+        - text: for Trello, Jira, Confluence and more.
+    - list [ref=e85]:
+      - listitem [ref=e86]:
+        - link "Política de Privacidade da Atlassian , (opens new window)" [ref=e87] [cursor=pointer]:
+          - /url: https://www.atlassian.com/legal/privacy-policy
+          - text: Política de Privacidade
+          - img [ref=e89]
+      - text: •
+      - listitem [ref=e91]:
+        - link "Aviso ao usuário da Atlassian , (opens new window)" [ref=e92] [cursor=pointer]:
+          - /url: https://www.atlassian.com/legal/user-notice
+          - text: Aviso ao usuário
+          - img [ref=e94]

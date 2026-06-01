@@ -1,0 +1,109 @@
+- generic [ref=e5]:
+  - generic [ref=e6]:
+    - generic:
+      - text: "Skip to:"
+      - list:
+        - listitem:
+          - link "Board":
+            - /url: "#trello-board-root"
+        - listitem:
+          - link "Board switcher":
+            - /url: "#island-nav"
+    - navigation "Primary" [ref=e61]:
+      - generic [ref=e62]:
+        - button "Switch to…" [ref=e64] [cursor=pointer]:
+          - img "Switch to…" [ref=e66]
+        - link "Back to home" [ref=e67] [cursor=pointer]:
+          - /url: /
+          - img [ref=e69]
+      - generic [ref=e71]:
+        - textbox "Search" [ref=e74]
+        - button "Create board or Workspace" [ref=e76] [cursor=pointer]: Create
+      - generic [ref=e77]:
+        - button "9 days left" [ref=e78] [cursor=pointer]: 9 days left
+        - button "Feedback" [ref=e80] [cursor=pointer]
+        - generic [ref=e83]:
+          - button "1 Notification" [ref=e84] [cursor=pointer]
+          - button:
+            - generic:
+              - generic: "1"
+        - button "Open information menu" [ref=e87] [cursor=pointer]
+        - button "Claude Clique Boost (claudecliqueboost)" [ref=e91] [cursor=pointer]
+  - generic [ref=e25]:
+    - generic [ref=e26]:
+      - generic:
+        - slider "Resize panels using the left and right arrow keys"
+      - generic:
+        - slider "Resize panels using the left and right arrow keys"
+      - generic [ref=e115]:
+        - generic [ref=e117]:
+          - generic [ref=e118]:
+            - textbox "Board name" [ref=e119]:
+              - heading "Lais Daltrozo" [level=1] [ref=e120]
+            - button "Views" [ref=e123] [cursor=pointer]
+          - generic [ref=e130]:
+            - button "This member is an admin of this board." [ref=e133] [cursor=pointer]:
+              - generic "This member is an admin of this board." [ref=e135]
+            - generic [ref=e136]:
+              - button "Power-Ups" [ref=e138] [cursor=pointer]:
+                - img "Power-Ups" [ref=e140]
+              - button "Automation" [ref=e142] [cursor=pointer]:
+                - img "Automation" [ref=e144]
+            - button "Filter cards" [ref=e146] [cursor=pointer]:
+              - img "Filter cards" [ref=e148]
+            - generic [ref=e149]:
+              - button "Star or unstar board" [ref=e150] [cursor=pointer]:
+                - img "Star or unstar board" [ref=e152]
+              - button "Workspace visible" [ref=e154] [cursor=pointer]
+            - button "Share board Share" [ref=e158] [cursor=pointer]:
+              - img "Share board" [ref=e160]
+              - generic [ref=e161]: Share
+            - button "Show menu" [ref=e162] [cursor=pointer]
+        - list [ref=e167]:
+          - listitem [ref=e199]:
+            - generic [ref=e200]:
+              - generic [ref=e201]:
+                - generic [ref=e202]:
+                  - heading "Semana 1" [level=2] [ref=e203]:
+                    - button "Semana 1" [ref=e204] [cursor=pointer]:
+                      - generic [ref=e205]: Semana 1
+                  - textbox "Semana 1" [ref=e206]: Semana 4
+                - button "Semana 1" [ref=e207] [cursor=pointer]:
+                  - img "Collapse list \\" [ref=e208]
+                - button "More actions on Semana 1" [ref=e209] [cursor=pointer]
+              - list [ref=e213]
+              - generic [ref=e214]:
+                - button "Add a card in Semana 1" [ref=e215] [cursor=pointer]: Add a card
+                - button "Create from template…" [ref=e219] [cursor=pointer]
+          - listitem [ref=e233]:
+            - generic [ref=e234]:
+              - generic [ref=e235]:
+                - generic [ref=e236]:
+                  - heading "Semana 2" [level=2] [ref=e237]:
+                    - button "Semana 2" [ref=e238] [cursor=pointer]:
+                      - generic [ref=e239]: Semana 2
+                  - textbox "Semana 2" [ref=e240]
+                - button "Semana 2" [ref=e241] [cursor=pointer]:
+                  - img "Collapse list \\" [ref=e242]
+                - button "More actions on Semana 2" [ref=e243] [cursor=pointer]
+              - list [ref=e247]
+              - generic [ref=e248]:
+                - button "Add a card in Semana 2" [ref=e249] [cursor=pointer]: Add a card
+                - button "Create from template…" [ref=e253] [cursor=pointer]
+          - generic [ref=e259]:
+            - textbox "Enter list name…" [active] [ref=e260]
+            - generic [ref=e261]:
+              - button "Add list" [ref=e262] [cursor=pointer]
+              - button "Cancel list editing" [ref=e263] [cursor=pointer]
+          - listitem [ref=e168]
+    - navigation:
+      - group [ref=e36]:
+        - checkbox "Inbox" [ref=e37] [cursor=pointer]:
+          - generic [ref=e41]: Inbox
+        - checkbox "Planner" [ref=e42] [cursor=pointer]:
+          - generic [ref=e46]: Planner
+        - checkbox "Board" [checked] [disabled] [ref=e47]:
+          - generic [ref=e52]: Board
+        - separator [ref=e53]
+        - checkbox "Switch boards" [ref=e174] [cursor=pointer]:
+          - generic [ref=e178]: Switch boards

@@ -51,9 +51,63 @@
 
 Aumentar presença nas mídias sociais, educar o público brasileiro nos EUA sobre life insurance e proteção patrimonial, e gerar leads qualificados para conversão em clientes.
 
-## Referências de Perfil (enviadas pela cliente)
+## Localização e Contexto Operacional
 
+- **Estado:** Iowa, EUA
+- **Idioma do conteúdo:** Português brasileiro
+- **Idioma de atendimento:** Bilíngue (português + inglês)
+
+## Esteira de Produtos
+
+- Life Insurance (term life, whole life)
+- Proteção Patrimonial
+- Estate Planning
+- Direito Sucessório
+
+Sem ordem de prioridade definida — todos os produtos são igualmente relevantes.
+
+## Estratégia de Conteúdo
+
+### Pilares
+
+1. **Educação** — desmistificar life insurance, estate planning e proteção patrimonial para brasileiros
+2. **Objeções** — responder dúvidas comuns ("não preciso", "é caro", "nunca vou usar", "não entendo o sistema americano")
+3. **Casos reais / situações** — exemplos práticos de quando cada produto faz diferença concreta
+4. **Processo** — como funciona a contratação, o que esperar, passo a passo em português
+5. **Autoridade** — posicionamento como especialista que navega os dois sistemas (BR + EUA)
+
+### Cadência Semanal
+
+| Dia | Formato | Pilar prioritário |
+|-----|---------|-------------------|
+| Segunda | Reel | Educação ou Objeção |
+| Quarta | Carrossel | Processo ou Autoridade |
+| Sexta | Reel | Caso real / situação prática |
+
+**Volume:** 2 Reels + 1 carrossel por semana
+
+### Tom e Estilo
+
+- Formal e profissional, mas acessível — especialista que simplifica, não que complica
+- Nunca assustador, apelativo ou cheio de jargão técnico
+- Postura: "eu explico o que ninguém te contou sobre proteger seu patrimônio nos EUA"
+- Público primário: brasileiros nos EUA que não entendem o sistema americano
+
+## Referências de Creators
+
+### Config `lais-insurance-niche` — Nicho direto
 - `@advfernandasiqueira` — advogada, referência de nicho
 - `@sheilashimada` — referência de nicho (life insurance / legal)
 - `@ktfinnykrispy` — referência de nicho (life insurance)
 - `@ndmendezlaw` — advogado/a, referência de nicho
+- `@estateplanningmom` — estate planning attorney (EUA), 27K seguidores
+- `@lawyerlaurenklein` — estate planning attorney, conteúdo educativo
+- `@lifehappens` — educação sobre seguros (nonprofit), 63K seguidores
+- `@meetjimlarsen` — life insurance mentor, 10K seguidores
+- `@fn_advogados` — advogada brasileira, planejamento patrimonial e sucessório
+
+### Config `lais-viral-formats` — Formato viral
+- `@nathaliaarcuri` — maior educadora financeira do Brasil, 4M seguidores (referência master de formato)
+- `@doutorfran` — maior legal influencer do Brasil, 8M seguidores (jurídico + viralidade)
+- `@papaifinanceiro` — planejamento financeiro familiar, 1M seguidores
+- `@miriane.ferreira` — holdings e direito empresarial, 1.9M seguidores
